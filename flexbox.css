@@ -35,14 +35,15 @@ footer {
     position: absolute;
     left: 0px;
     top: 0px;
-    z-index: -1;
+    z-index: -999;
   }
 
   uitext {
     position: absolute;
     left: 0px;
     top: 0px;
-    z-index: 0;
+    color: #ffffff;
+    z-index: 1;
   }
 
 
