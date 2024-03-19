@@ -28,7 +28,6 @@ footer {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #ffffff;
    }
 
    backgroundimg {
@@ -43,7 +42,7 @@ footer {
     left: 0px;
     top: 0px;
     color: #ffffff;
-    z-index: 1;
+    z-index: 10;
   }
 
 
