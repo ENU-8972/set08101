@@ -30,6 +30,23 @@ footer {
     flex-direction: column;
     color: #ffffff;
    }
+
+   backgroundimg {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+  }
+
+  uitext {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 0;
+  }
+
+
+
    .container {
     display: flex;
     flex: 1;
